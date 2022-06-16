@@ -1,0 +1,5 @@
+yfinance
+pandas
+sqlite3
+datetime
+selenium
